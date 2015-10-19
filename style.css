@@ -1,0 +1,58 @@
+body{
+	-webkit-touch-callout: none;
+ 	-webkit-user-select: none;
+ 	-khtml-user-select: none;
+ 	-moz-user-select: none;
+ 	-ms-user-select: none;
+ 	user-select: none;
+  font-family: 'Abel', sans-serif;
+  margin: 0 auto;
+  text-align: justify;
+  background-color: #A3ADB7;
+  font-size: 200%;
+  color: #002631;
+}
+.navbar-default *{
+  color: #3F6874;
+}
+#one {
+  background-color: #A3ADB7;
+  height: 100px;
+  width: 100px;
+}
+#two {
+  background-color: #002631;
+  height: 100px;
+  width: 100px;
+}
+#three {
+  background-color: #3F6874;
+  height: 100px;
+  width: 100px;
+}
+
+
+
+
+
+.page{
+  margin-top: 10px;
+}
+.scrollbar{
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+#beach{
+  height: 300px;
+  width: 950px;
+}
+#motto{
+  text-align: center;
+}
+#mlk{
+  font-size: 140%;
+}
+#kemnav{
+  margin-top: 30px;
+  border-radius: 10px;
+}
