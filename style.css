@@ -12,6 +12,10 @@ body{
 .smallcaps{
   font-variant: small-caps;
 }
+.allcaps{
+  text-transform: uppercase;
+  font-weight: 900;
+}
 
 /*Logo*/
 #logo{
@@ -46,9 +50,9 @@ body{
 
 /*Right Column*/
 .myviewport{
-  margin-top: 50px;
   padding: 20px;
-
+  height: 80%;
+  width: 80%;
 }
 
 /*Footer*/
@@ -64,6 +68,7 @@ body{
 .footer p{
   display: inline;
   padding: 10px;
+  font-size: 125%;
 }
 /*Underline Hover On Menu*/
 .sliding-u-l-r {
@@ -77,4 +82,8 @@ body{
 .sliding-u-l-r:hover {
     border-bottom: 3px solid white;
     width: 140px;
+}
+/*MISC*/
+#quote{
+margin-top: 0px;
 }
