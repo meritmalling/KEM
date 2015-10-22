@@ -1,4 +1,3 @@
-$(function (){
-
-
-}); //End Page Listen
+$( document ).ready(function() {
+    console.log( "Ready!" );
+});
