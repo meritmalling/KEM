@@ -87,3 +87,7 @@ body{
 #quote{
 margin-top: 0px;
 }
+.quote{
+  width: 70%;
+  margin: 0 auto;
+}
