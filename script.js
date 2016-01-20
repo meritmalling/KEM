@@ -1,5 +1,4 @@
 $( document ).ready(function() {
-    console.log( "Ready!" );
 
     $('.aboutnav').on('click', function(){
         $('.view').addClass('hide');
@@ -20,6 +19,5 @@ $( document ).ready(function() {
         $('.view').addClass('hide');
         $('.results').removeClass('hide');
     });
-
 
 });
